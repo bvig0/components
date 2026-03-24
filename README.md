@@ -40,15 +40,9 @@ Escolha o componente desejado, copie a estrutura HTML e certifique-se de vincula
 ## 🛠️ Tecnologias Utilizadas
 
 - **HTML5**: Estrutura semântica e acessível  
-- **CSS3**: Layouts modernos (Flexbox/Grid) e responsividade  
+- **CSS3**: Layouts modernos e responsividade  
 - **JavaScript**: Interatividade nativa, sem dependências ou frameworks externos  
 
 ---
 
-## ⚖️ Licença
-
-Este projeto está sob a licença MIT. Sinta-se à vontade para usar, modificar e distribuir.
-
----
-
-Desenvolvido por **bvig0**
+### 👨‍💻 Desenvolvido por [Brian Vigo de Oliveira](https://github.com/bvig0)
